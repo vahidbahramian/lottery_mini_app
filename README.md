@@ -1,0 +1,1 @@
+# lottery_mini_app
